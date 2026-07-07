@@ -1,4 +1,4 @@
-                                                          "British Airways Reviews Dashboard"
+                                                    "British Airways Reviews Dashboard"
 
 Project Overview:
 This project is an interactive Tableau dashboard built to analyze British Airways customer reviews. The dashboard provides insights into customer satisfaction, aircraft performance, traveler types, cabin classes, and overall airline ratings.
@@ -34,6 +34,6 @@ How to Open
 3. If using `.twb`, ensure the dataset is available in the correct location
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard_Screenshot)
 
                                                                         *THANK YOU*
