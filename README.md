@@ -14,19 +14,19 @@ Country-wise Review Analysis
 Interactive Filters
 
 Tools Used:
-Tableau Desktop
-Microsoft Excel / CSV File
+Tableau Desktop,
+Microsoft Excel / CSV File.
 
-Main Objective
+Main Objective:
 - Analyzed customer reviews from multiple countries.
 - Compared ratings across different aircraft.
 - Identified strengths and weaknesses in customer experience.
 - Built an interactive dashboard for better decision-making.
 
-Files Included
-project-1 british airways.twb
-2 Datasets(.csv)
-Dashboard Screenshot
+Files Included:
+project-1 british airways.twb,
+2 Datasets(.csv),
+Dashboard Screenshot.
 
 How to Open
 1. Download the repository.
